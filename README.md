@@ -5,30 +5,4 @@ A engenharia de prompts é uma disciplina relativamente nova para o desenvolvime
 Motivados pelo grande interesse em desenvolver com LLMs, criamos este novo guia de engenharia de prompts que contém todos os artigos, guias de aprendizagem, palestras, referências e ferramentas mais recentes relacionados à engenharia de prompts para LLMs.
 
 🌐 [Engenharia de Promp ](https://prompt-engineering-guide-rho.vercel.app/pt)
-  
-
----
-## Appearances
-Some places where we have been featured:
-- Wall Street Journal - [ChatGPT Can Give Great Answers. But Only If You Know How to Ask the Right Question](https://www.wsj.com/articles/chatgpt-ask-the-right-question-12d0f035)
-- Forbes - [Mom, Dad, I Want To Be A Prompt Engineer](https://www.forbes.com/sites/craigsmith/2023/04/05/mom-dad-i-want-to-be-a-prompt-engineer/?sh=7f1213159c8e)
-- Markettechpost - [Best Free Prompt Engineering Resources (2023)](https://www.marktechpost.com/2023/04/04/best-free-prompt-engineering-resources-2023/)
-
-
----
-If you are using the guide for your work or research, please cite us as follows:
-
-```
-@article{Guia de Eng de Promp 2025,
-author = {Saravia, Cristian},
-journal = {https://github.com/dair-ai/Prompt-Engineering-Guide},
-month = {12},
-title = {{Guia de Engenharia de prompt}},
-year = {2025}
-}
-```
-
  
-
-
-Feel free to open a PR if you think something is missing here. Always welcome feedback and suggestions. Just open an issue!
